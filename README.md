@@ -28,12 +28,9 @@ project/
 └── image/
     └── dx_logo.gif
 
-## 🌐 Live Demo
-Upload to your web server and access `index.html`
-
 ## 📞 Contact Information
 - **Phone**: +60 16-8933277, +60 19-893 3277
-- **Email**: info@digitaltransformation.com.my
+- **Email**: aaronlau130435@gmail.com
 - **WhatsApp**: +60 16-8933277
 - **Address**: AC210 Batu Kawa Road, Batu Kawah New Township, 93250 Kuching, Sarawak
 
